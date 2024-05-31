@@ -78,4 +78,4 @@ TOTAL              26      2    92%
 # Stmts: Este es el número total de “declaraciones” en mi archivo. Una declaración es básicamente cualquier línea de código que hace algo.
 # Miss: Este es el número de declaraciones que no se ejecutaron durante las pruebas. En mi caso, hay 2 declaraciones que no se ejecutaron.
 # Cover: Este es el porcentaje de tu código que fue cubierto por las pruebas. En mi caso, el 92% de tu código fue cubierto por las pruebas.
-# Missing: Estas son las líneas específicas del código que no se ejecutaron durante las pruebas. En mi caso, las líneas 15 y 39 no se ejecutaron, pero naturmente el codigo escrito en esas lineas no se ejecutan en las pruebas <3.
+# Missing: Estas son las líneas específicas del código que no se ejecutaron durante las pruebas. En mi caso, las líneas 15 y 39 no se ejecutaron, pero naturalmente el codigo escrito en esas lineas no se ejecutan en las pruebas <3.
